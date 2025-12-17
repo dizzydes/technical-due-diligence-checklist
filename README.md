@@ -1,4 +1,4 @@
-# LMM Technical Due Diligence Checklist
+# Technical Due Diligence Checklist
 
 Need a Technical Due Diligence report? [Book a free no-commitment chat today.](https://bogatell.io/technical-due-diligence?utm_source=github)
 
