@@ -1,6 +1,6 @@
 # Technical Due Diligence Checklist
 
-Need a Technical Due Diligence report? [Book a free no-commitment chat today.](https://bogatell.io/technical-due-diligence?utm_source=github)
+Need a Technical Due Diligence report? [Book a free no-commitment chat today.](https://bogatell.io?utm_source=github)
 
 ***
 
@@ -126,4 +126,4 @@ Need a Technical Due Diligence report? [Book a free no-commitment chat today.](h
 
 ***
 
-Need a Technical Due Diligence report? [Book a free no-commitment chat today.](https://bogatell.io/technical-due-diligence?utm_source=github)
+Need a Technical Due Diligence report? [Book a free no-commitment chat today.](https://bogatell.io?utm_source=github)
